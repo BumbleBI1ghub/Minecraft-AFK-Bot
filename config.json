@@ -3,4 +3,5 @@
   "serverPort": 33890,
   "botUsername": "MeinAFKBot1",
   "botChunk": 4
+  "botVersion": "1.21.1"
 }
