@@ -1,7 +1,7 @@
 {
-  "serverHost": "mc2196310.fmcs.cloud",
+  "serverHost": "goat.fi.freemcserver.net",
   "serverPort": 33890,
   "botUsername": "MeinAFKBot1",
-  "botChunk": 4
+  "botChunk": 4,
   "botVersion": "1.21.1"
 }
