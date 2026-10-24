@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
-  "botChunk": 1
+  "serverHost": "mc2196310.fmcs.cloud",
+  "serverPort": 33890,
+  "botUsername": "MeinAFKBot1",
+  "botChunk": 4
 }
